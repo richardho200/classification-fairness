@@ -1,6 +1,6 @@
 # Classification Fairness on improving the prediction of Criminals’ recidivate
 UC Santa Cruz-Fall 2023 Quarter Independent Study
-Advised by Luca de Alfaro
+advised by Dr. Luca de Alfaro
 
 Using Python libraries to develop algorithms for improved classification fairness. 
 Conducted literature reviews on analysis of past research works on decision tree divergence issues. 
