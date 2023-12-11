@@ -1,4 +1,4 @@
-# -classification-fairness
+# classification-fairness
 UC Santa Cruz-Fall 2023 Quarter Independent Study
 Advised by Luca de Alfaro
 
