@@ -2,6 +2,7 @@
 UC Santa Cruz-Fall 2023 Quarter Independent Study
 
 Author: Richard Ho UCSC CSE 2nd year Masters student
+
 Advised by Dr. Luca de Alfaro
 
 Using Python libraries to develop algorithms for improved classification fairness. 
