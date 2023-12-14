@@ -1,7 +1,7 @@
 # Classification Fairness on improving the prediction of Criminals’ recidivate
 UC Santa Cruz-Fall 2023 Quarter Independent Study
 
-Author: Richard Ho UCSC CSE 2nd year Masters student
+Richard Ho UCSC CSE 2nd year Masters student
 
 Advisor: Dr. Luca de Alfaro Professor & Department Vice Chair
 
