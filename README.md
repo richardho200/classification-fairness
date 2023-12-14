@@ -3,7 +3,7 @@ UC Santa Cruz-Fall 2023 Quarter Independent Study
 
 Author: Richard Ho UCSC CSE 2nd year Masters student
 
-Advisor: Dr. Luca de Alfaro
+Advisor: Dr. Luca de Alfaro Professor & Department Vice Chair
 
 Using Python libraries to develop algorithms for improved classification fairness. 
 Conducted literature reviews on analysis of past research works on decision tree divergence issues. 
